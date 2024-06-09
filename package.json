@@ -1,0 +1,14 @@
+{
+  "name": "currency-rates",
+  "version": "1.0.0",
+  "description": "Currency rates from NBU",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
